@@ -45,8 +45,8 @@ require_one_installed() {
   exit 1
 }
 
-AW_PATH=$HOME/.vim-anywhere
-AW_URL='https://github.com/cknadler/vim-anywhere'
+AW_PATH="$HOME/.vim-anywhere"
+AW_URL="https://github.com/MaG21/vim-anywhere"
 
 ###
 # pre-installation checks
